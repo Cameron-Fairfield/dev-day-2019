@@ -1,6 +1,6 @@
 # Tidyverse developer day 2019
 
-### Save the date 📆
+### Event info 📆
 
 On the Saturday following [rstudio::conf](https://www.rstudio.com/conference/), we'll be holding our first ever **tidyverse developer day**. 
 
